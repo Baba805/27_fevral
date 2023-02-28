@@ -7,7 +7,7 @@ for (var i = 0; i <= goturulenDeyer; i++)
     {
         System.Console.WriteLine("ne tek ne cut");
     }
-    else if (goturulenDeyer % i == 0) ;
+    else if (goturulenDeyer % i == 0)
     {
         bolenlerinSayi++;
         sum += i;
