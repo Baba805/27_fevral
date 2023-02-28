@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var goturulenDeyer = 12;
+        var bolenlerinSayi = 0;
+        var sum = 0;
+        for (var i=0; i<=goturulenDeyer; i++){
+                if(goturulenDeyer == 0 || goturulenDeyer ==1){
+                    console.log("ne tek ne cut")
+                }
+            else if(goturulenDeyer % i == 0){
+                bolenlerinSayi++;
+                sum+=i;
+            }
+        }
+        if(bolenlerinSayi<=2){
+                console.log(" ededimiz sade ededddir")
+            }else{
+                console.log(" ededimiz sade eded deyil")
+            }
+
+           console.log(goturulenDeyer ,"e kimi olan sade ededlerin cemi :", sum)
+            
+    </script>
+</body>
+</html>

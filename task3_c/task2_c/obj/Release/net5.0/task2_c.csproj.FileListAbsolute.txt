@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\task2_c.exe
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\task2_c.deps.json
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\task2_c.runtimeconfig.json
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\task2_c.runtimeconfig.dev.json
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\task2_c.dll
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\ref\task2_c.dll
+C:\Users\user\Desktop\task2_c\task2_c\bin\Release\net5.0\task2_c.pdb
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.AssemblyInfo.cs
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.dll
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\ref\task2_c.dll
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.pdb
+C:\Users\user\Desktop\task2_c\task2_c\obj\Release\net5.0\task2_c.genruntimeconfig.cache
